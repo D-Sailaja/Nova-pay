@@ -1,6 +1,6 @@
-package com.uday.novapay.entity;
-import com.uday.novapay.enums.UserRole;
-import com.uday.novapay.enums.UserStatus;
+package com.Sailaja .novapay.entity;
+import com.Sailaja .novapay.enums.UserRole;
+import com.Sailaja .novapay.enums.UserStatus;
 import jakarta.persistence.*;
 import lombok.Data;
 @Data

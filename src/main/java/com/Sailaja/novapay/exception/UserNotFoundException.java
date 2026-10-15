@@ -1,4 +1,4 @@
-package com.uday.novapay.exception;
+package com.Sailaja .novapay.exception;
 
 public class UserNotFoundException extends RuntimeException {
     public UserNotFoundException(String message) {

@@ -1,9 +1,9 @@
-package com.uday.novapay.mapper;
-import com.uday.novapay.dto.request.RegisterRequest;
-import com.uday.novapay.entity.User;
+package com.Sailaja .novapay.mapper;
+import com.Sailaja .novapay.dto.request.RegisterRequest;
+import com.Sailaja .novapay.entity.User;
 import org.springframework.stereotype.Component;
-import com.uday.novapay.enums.UserStatus;
-import com.uday.novapay.enums.UserRole;
+import com.Sailaja .novapay.enums.UserStatus;
+import com.Sailaja .novapay.enums.UserRole;
 
 
 @Component

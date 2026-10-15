@@ -1,4 +1,4 @@
-package com.uday.novapay.entity;
+package com.Sailaja .novapay.entity;
 import jakarta.persistence.*;
 import lombok.*;
 

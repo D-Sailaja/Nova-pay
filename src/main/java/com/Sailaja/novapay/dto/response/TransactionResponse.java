@@ -1,6 +1,6 @@
-package com.uday.novapay.dto.response;
+package com.Sailaja .novapay.dto.response;
 
-import com.uday.novapay.enums.TransactionType;
+import com.Sailaja .novapay.enums.TransactionType;
 import lombok.Builder;
 import lombok.Data;
 

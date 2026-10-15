@@ -1,4 +1,4 @@
-package com.uday.novapay.exception;
+package com.Sailaja .novapay.exception;
 
 public class InvalidCredentialsException extends RuntimeException {
     public InvalidCredentialsException(String message) {

@@ -1,5 +1,5 @@
-package com.uday.novapay.entity;
-import com.uday.novapay.enums.TransactionType;
+package com.Sailaja .novapay.entity;
+import com.Sailaja .novapay.enums.TransactionType;
 import jakarta.persistence.*;
 import lombok.*;
 

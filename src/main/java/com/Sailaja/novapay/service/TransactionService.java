@@ -1,10 +1,10 @@
-package com.uday.novapay.service;
+package com.Sailaja .novapay.service;
 
-import com.uday.novapay.dto.response.TransactionResponse;
-import com.uday.novapay.entity.Transaction;
-import com.uday.novapay.entity.User;
-import com.uday.novapay.repository.TransactionRepository;
-import com.uday.novapay.repository.UserRepository;
+import com.Sailaja .novapay.dto.response.TransactionResponse;
+import com.Sailaja .novapay.entity.Transaction;
+import com.Sailaja .novapay.entity.User;
+import com.Sailaja .novapay.repository.TransactionRepository;
+import com.Sailaja .novapay.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,7 +1,7 @@
-package com.uday.novapay.service;
+package com.Sailaja .novapay.service;
 
-import com.uday.novapay.entity.User;
-import com.uday.novapay.repository.UserRepository;
+import com.Sailaja .novapay.entity.User;
+import com.Sailaja .novapay.repository.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

@@ -1,7 +1,7 @@
-package com.uday.novapay.repository;
+package com.Sailaja .novapay.repository;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
-import com.uday.novapay.entity.User;
+import com.Sailaja .novapay.entity.User;
 
     public interface UserRepository extends JpaRepository<User, Long> {
 

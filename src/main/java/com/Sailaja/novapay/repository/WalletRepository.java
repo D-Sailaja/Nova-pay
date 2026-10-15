@@ -1,5 +1,5 @@
-package com.uday.novapay.repository;
-import com.uday.novapay.entity.Wallet;
+package com.Sailaja .novapay.repository;
+import com.Sailaja .novapay.entity.Wallet;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

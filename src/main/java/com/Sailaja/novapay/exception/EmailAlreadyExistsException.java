@@ -1,4 +1,4 @@
-package com.uday.novapay.exception;
+package com.Sailaja .novapay.exception;
 
 public class EmailAlreadyExistsException extends RuntimeException{
     public EmailAlreadyExistsException(String message){

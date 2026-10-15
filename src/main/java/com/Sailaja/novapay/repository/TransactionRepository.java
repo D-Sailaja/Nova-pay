@@ -1,7 +1,7 @@
-package com.uday.novapay.repository;
+package com.Sailaja .novapay.repository;
 
-import com.uday.novapay.entity.Transaction;
-import com.uday.novapay.entity.User;
+import com.Sailaja .novapay.entity.Transaction;
+import com.Sailaja .novapay.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

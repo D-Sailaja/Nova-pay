@@ -1,15 +1,15 @@
-package com.uday.novapay.service;
-import com.uday.novapay.dto.request.LoginRequest;
-import com.uday.novapay.dto.response.LoginResponse;
-import com.uday.novapay.entity.User;
-import com.uday.novapay.exception.EmailAlreadyExistsException;
-import com.uday.novapay.exception.InvalidCredentialsException;
-import com.uday.novapay.mapper.UserMapper;
-import com.uday.novapay.repository.UserRepository;
+package com.Sailaja .novapay.service;
+import com.Sailaja .novapay.dto.request.LoginRequest;
+import com.Sailaja .novapay.dto.response.LoginResponse;
+import com.Sailaja .novapay.entity.User;
+import com.Sailaja .novapay.exception.EmailAlreadyExistsException;
+import com.Sailaja .novapay.exception.InvalidCredentialsException;
+import com.Sailaja .novapay.mapper.UserMapper;
+import com.Sailaja .novapay.repository.UserRepository;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
-import com.uday.novapay.dto.request.RegisterRequest;
-import com.uday.novapay.dto.response.RegisterResponse;
+import com.Sailaja .novapay.dto.request.RegisterRequest;
+import com.Sailaja .novapay.dto.response.RegisterResponse;
 
 @Service
 public class AuthService {

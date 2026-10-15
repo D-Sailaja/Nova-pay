@@ -1,11 +1,11 @@
-package com.uday.novapay.controller;
-import com.uday.novapay.dto.request.LoginRequest;
-import com.uday.novapay.dto.request.RegisterRequest;
-import com.uday.novapay.dto.response.LoginResponse;
-import com.uday.novapay.dto.response.RegisterResponse;
+package com.Sailaja.novapay.controller;
+import com.Sailaja .novapay.dto.request.LoginRequest;
+import com.Sailaja .novapay.dto.request.RegisterRequest;
+import com.Sailaja .novapay.dto.response.LoginResponse;
+import com.Sailaja .novapay.dto.response.RegisterResponse;
 import jakarta.validation.Valid;
 import org.springframework.web.bind.annotation.*;
-import com.uday.novapay.service.AuthService;
+import com.Sailaja .novapay.service.AuthService;
 
 
 @RestController

@@ -1,5 +1,5 @@
-package com.uday.novapay.config;
-import com.uday.novapay.security.JwtAuthenticationFilter;
+package com.Sailaja.novapay.config;
+import com.Sailaja .novapay.security.JwtAuthenticationFilter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.Customizer;

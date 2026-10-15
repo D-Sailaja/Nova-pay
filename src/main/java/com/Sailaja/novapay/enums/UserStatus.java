@@ -1,4 +1,4 @@
-package com.uday.novapay.enums;
+package com.Sailaja .novapay.enums;
 
 public enum UserStatus {
     ACTIVE,
