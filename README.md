@@ -61,7 +61,7 @@ NovaPay enables users to register, authenticate using JWT, manage wallets, trans
 src
 └── main
     └── java
-        └── com.uday.novapay
+        └── com.Sailaja .novapay
             ├── config
             ├── security
             ├── controller

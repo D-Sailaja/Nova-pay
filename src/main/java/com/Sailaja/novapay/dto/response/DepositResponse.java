@@ -1,0 +1,14 @@
+package com.Sailaja .novapay.dto.response;
+
+import lombok.Builder;
+import lombok.Data;
+
+import java.math.BigDecimal;
+
+@Data
+@Builder
+public class DepositResponse {
+
+    private String message;
+    private BigDecimal balance;
+}
